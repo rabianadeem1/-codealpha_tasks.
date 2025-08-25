@@ -1,8 +1,5 @@
-Got it ✅ Let’s create a **README.md** for your `StockPortfolioTracker` project so it looks nice on GitHub.
 
-Here’s a simple but professional version:
 
-````markdown
 # 📊 Stock Portfolio Tracker
 
 A simple **Stock Portfolio Tracker** built with Python.  
